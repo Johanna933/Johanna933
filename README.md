@@ -1,4 +1,4 @@
-![alt text](https://github.com/Johanna933/Johanna933/blob/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header.gif?raw=true)
+![alt text](https://github.com/Johanna933/Johanna933/blob/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header%20(2).gif?raw=true)
 
 
 
