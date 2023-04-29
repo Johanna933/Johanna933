@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![image](https://user-images.githubusercontent.com/117197883/235310633-4a3fbcc4-e314-4dc5-9a04-d4a002787fd2.png)
+
  My name is [Your Name], and I'm a data analyst with a passion for finding insights in data. I recently made a career change from [previous profession, e.g. buyer] to data analysis, and I'm excited to bring my skills and experience to new challenges.
 
 📈 Skills and Expertise Data analysis and visualization using [tools or technologies you are proficient in, e.g. Python, SQL, Excel, Tableau] Statistical analysis and modeling Data cleaning and wrangling Machine learning 💻 Projects Here are a few examples of projects that I've worked on:
