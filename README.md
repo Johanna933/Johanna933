@@ -1,16 +1,10 @@
 
 ![Blue Yellow Retro Quotes Twitter Header](https://user-images.githubusercontent.com/117197883/235314573-152b4c0b-01d4-4881-8760-b2b31bd23db9.png)
 
-..gif
 
-
-https://github.com/Johanna933/Johanna933/blob/main/..gif?raw=true
 
 ![alt text](https://github.com/Johanna933/Johanna933/blob/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header%20(1).mp4?raw=true)
 
-<div align="center">
-  <img src="https://github.com/Johanna933/Johanna933/blob/main/..gif?raw=true" width="600" height="800" alt="Your GIF Title">
-</div>
 
 
 
