@@ -8,7 +8,9 @@ https://github.com/Johanna933/Johanna933/blob/main/..gif?raw=true
 
 ![alt text](https://github.com/Johanna933/Johanna933/blob/main/..gif?raw=true)
 
-
+<div align="center">
+  <img src="https://github.com/Johanna933/Johanna933/blob/main/..gif?raw=true" width="600" height="400" alt="Your GIF Title">
+</div>
 
 
 
