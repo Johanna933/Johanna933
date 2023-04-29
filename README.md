@@ -2,18 +2,55 @@
 
 
 
+### Hi I'm Johanna 👋
 
-### Hi there 👋
+As a Data Analyst, I have a passion for uncovering the hidden gems of insights buried within complex data sets. With a background in Buying, I bring a fresh perspective, enabling me to tackle challenges in innovative and exciting ways. I'm always on the lookout for opportunities to discover actionable insights that drive business growth and help organisations make better decisions. 
 
 
+📈 **Skills and Expertise**
 
- My name is [Your Name], and I'm a data analyst with a passion for finding insights in data. I recently made a career change from [previous profession, e.g. buyer] to data analysis, and I'm excited to bring my skills and experience to new challenges.
+- Analyse sales trends, adjust inventory levels and range.
+- Built customer dashboards, studied buying behaviors to make actionable decisions and topline strategy.
+- Prepared weekly sales data insights and presented to senior team leads.
+- Identified and mitigated risks in brand contracts using SalesForce, ensuring compliance and cost savings.
+- Presented dashboards and deduced insights from internal and external data.
+- Analysed WGSN and StyleSage to highlight trends for customer segmentation and buying season.
+- Owned buying and performance of Watches and introduced Private Label Jewelry, reviewing sales, segmentation, inventory, and competition.
+- Conducted competitor comparison and price analyses, leading to reduced prices.
+- Managed vendor/supplier database and product catalogues for real-time access to purchase orders and pricing.
+- Designed and maintained efficient workflows to increase transparency and reduce manual workload.
 
-📈 Skills and Expertise Data analysis and visualization using [tools or technologies you are proficient in, e.g. Python, SQL, Excel, Tableau] Statistical analysis and modeling Data cleaning and wrangling Machine learning 💻 Projects Here are a few examples of projects that I've worked on:
+💻 **Systems** 
 
-[Link to project 1]: [Brief description of project 1] [Link to project 2]: [Brief description of project 2] [Link to project 3]: [Brief description of project 3] 🔭 Contributions I'm a strong believer in the power of open source, and I've contributed to several projects in the [relevant field, e.g. data science or analytics] community. Here are a few examples of my contributions:
+- Microstrategy
+- Big Query
+- Tableau
+- Looker
+- SQL
+- Sales Force
+- Oracle Studio / Netsuite
+- Microsoft / Google Suite
+- Jira
+- Miro / Mural / Jam Board
+- Prism
+- WGSN / Style Sage
 
-[Link to contribution 1]: [Brief description of contribution 1] [Link to contribution 2]: [Brief description of contribution 2] [Link to contribution 3]: [Brief description of contribution 3] 📧 Get in touch If you're interested in connecting, please feel free to reach out to me at [your email or LinkedIn profile URL]. I'm always open to new opportunities and collaborations!
+🔨 **Projects** 
+
+Here are a few examples of projects that I've worked on:
+
+[Link to project 1]: [Brief description of project 1]
+
+[Link to project 2]: [Brief description of project 2] 
+
+📧 **Get in touch**
+
+If you're interested in connecting, please feel free to reach out to me on LinkedIn.
+
+https://www.linkedin.com/in/johannamoloney/
+
+**I'm always open to new opportunities and collaborations!**
+
 
 <!--
 **Johanna933/Johanna933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
