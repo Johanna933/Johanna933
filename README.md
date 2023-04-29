@@ -9,7 +9,7 @@ https://github.com/Johanna933/Johanna933/blob/main/..gif?raw=true
 ![alt text](https://github.com/Johanna933/Johanna933/blob/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header%20(1).mp4?raw=true)
 
 <div align="center">
-  <img src="https://github.com/Johanna933/Johanna933/blob/main/..gif?raw=true" width="600" height="400" alt="Your GIF Title">
+  <img src="https://github.com/Johanna933/Johanna933/blob/main/..gif?raw=true" width="600" height="800" alt="Your GIF Title">
 </div>
 
 
