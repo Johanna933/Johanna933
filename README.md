@@ -1,14 +1,7 @@
 
 ![Blue Yellow Retro Quotes Twitter Header](https://user-images.githubusercontent.com/117197883/235314573-152b4c0b-01d4-4881-8760-b2b31bd23db9.png)
 
-
-
-![alt text](https://github.com/Johanna933/Johanna933/blob/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header%20(1).mp4?raw=true)
-
-
-
-
-https://user-images.githubusercontent.com/117197883/235315766-70863a5a-d78b-4862-bc63-fb686ac2a467.mp4
+![alt text](https://github.com/Johanna933/Johanna933/blob/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header.gif?raw=true)
 
 
 
