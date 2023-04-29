@@ -30,8 +30,7 @@ As a Data Analyst, I have a passion for uncovering the hidden gems of insights b
 - Sales Force
 - Oracle Studio / Netsuite
 - Microsoft / Google Suite
-- Jira
-- Miro / Mural / Jam Board
+- Jira / Miro / Mural / Jam Board
 - Prism
 - WGSN / Style Sage
 
