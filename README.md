@@ -34,14 +34,6 @@ As a Data Analyst, I have a passion for uncovering the hidden gems of insights b
 - Prism
 - WGSN / Style Sage
 
-🔨 **Projects** 
-
-Here are a few examples of projects that I've worked on:
-
-[Link to project 1]: [Brief description of project 1]
-
-[Link to project 2]: [Brief description of project 2] 
-
 📧 **Get in touch**
 
 If you're interested in connecting, please feel free to reach out to me on LinkedIn.
